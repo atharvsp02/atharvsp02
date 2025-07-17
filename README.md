@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=atharvsp02&layout=compact&theme=neon" alt="My WakaTime Stats"/>
+
 [![wakatime](https://wakatime.com/badge/user/6b049535-343e-4f7c-ac38-4bffc165f4ed.svg)](https://wakatime.com/@6b049535-343e-4f7c-ac38-4bffc165f4ed)
